@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Smriti Aryal</h1>
 <h3 align="center">A dedicated learner with passion for programming and problem solving.</h3>
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 - 🌱 I’m currently learning **Data Structures and Algorithm.**
 
 - 📝 I regularly write articles on [https://smritiiaryal.hashnode.dev/](https://smritiiaryal.hashnode.dev/)
 
 - 📫 How to reach me **smritiaryal331@gmail.com**
-
-![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
