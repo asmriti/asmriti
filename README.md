@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smriti Aryal</h1>
 <h3 align="center">A dedicated learner with passion for programming and problem solving.</h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=asmriti)
 
 - 🌱 I’m currently learning **Data Structures and Algorithm.**
 
