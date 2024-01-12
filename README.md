@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=asmriti)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript.**
 
 - 📝 I regularly write articles on [https://smritiiaryal.hashnode.dev/](https://smritiiaryal.hashnode.dev/)
 
